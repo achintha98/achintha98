@@ -1,16 +1,18 @@
-<h1 align="center">[Booting Protocol: dev.achintha]</h1>
+<h1 align="center">[ ACCESSING NODE: dev-achintha ]</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=2500&color=00FF00&center=true&vCenter=true&width=600&lines=[SYSTEM:+Cold+Start+Detected];[AUTH:+Root+Access+Granted];[Initializing+Core+Microservices];[SpringBoot+Engine:+Primed];[Kafka+Streams:+Stable];[Protocol:+Crack+Mode+Enabled]" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=2500&color=00FF00&center=true&vCenter=true&width=600&lines=Initiating+sequence...;Black+box+status:+STABLE;Deploying+across+zones...;Signals+clean.;Listening+on+all+channels.;Echo:+Full+stack+trace+confirmed.;>>_+Awaiting+next+directive." />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDQ2YzM2bDZ1a2F4bGQzZW8wYzh2Z2hrcGJ5MGM3MDF6ZmdkY2JvMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Zy7fJ3GuhTyKfjS8I5/giphy.gif" width="60%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="55%" />
 </p>
 
 ---
+
+### 🕶️ Classified Overview
 
 ### 🧬 System Overview
 
