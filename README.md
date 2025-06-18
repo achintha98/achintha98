@@ -28,7 +28,7 @@ Or you can connect 📫 with me here.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 ---
-gggggggggg
+
 <!-- Optional: Visitors badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="GitHub Profile Views" />
