@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=2500&color=00FF00&center=true&vCenter=true&width=600&lines=Initiating+sequence...;Black+box+status:+STABLE;Deploying+across+zones...;Signals+clean.;Listening+on+all+channels.;Echo:+Full+stack+trace+confirmed.;>>_+Awaiting+next+directive." />
 </p>
-
+a
 ---
 
 <p align="center">
