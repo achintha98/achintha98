@@ -25,7 +25,7 @@ Ask me anything <a href="https://github.com/achintha98/achintha98/issues/new"><b
 
 Or you can connect 📫 with me here.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/achintha-k/))
 
 ---
 
