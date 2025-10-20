@@ -15,8 +15,8 @@
 #### A Full-Stack Developer by day ☼ and a Spring Community Contributor by night ☾
 
 - ⚙️ I use daily: `.java`, `.js`, `.ts` `.html`, `.css`
-- 🌍 My Daily tasks range from **Microservices, Data Streams to Devops**
-- 💬 `ping` me about **Springboot**, **Scalable Microservices**, **Saas Development**, **LLMs and Image Generation**, **Software Architecture**
+- 🌍 My Daily tasks range from **Microservices, Data Piplines to Devops**
+- 💬 `ping` me about **Software Architecture**, **Distrubuted Systems**, **Saas Development**, **LLMs and Image Generation** 
 
 ---
 
